@@ -4,7 +4,7 @@
 /**
  * main - Determines if a randomly generated number is positve or negative.
  *
- * return: (0) - Successful termination of a program.
+ * Return: (0) - Successful termination of a program.
  *
  */
 int main(void)
