@@ -2,7 +2,7 @@
 /**
  * main - Function that serves as the Entry point of c programs.
  *
-* Return: (0) - Successful termination of a program.
+ * return: (0) - Successful termination of a program.
  */
 int main(void)
 {
