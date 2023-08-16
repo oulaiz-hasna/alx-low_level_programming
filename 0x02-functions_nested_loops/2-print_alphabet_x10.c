@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * print_alphabet - utilizes the _putchar function to print the alphabet a - z
+ * print_alphabet_x10 - print the alphabet a - z
  *                  10 times in lower case.
  */
-void print_alphabet(void)
+void print_alphabet_x10(void)
 {
 	int alpha;
 	int i = 0;
