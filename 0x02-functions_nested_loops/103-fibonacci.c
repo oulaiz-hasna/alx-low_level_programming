@@ -1,12 +1,11 @@
 #include "main.h"
-/*
- * main -Entry point
+/**
+ * main - Prints the add of the even-valued
+ * fibonacci numbers.
  *
- * Description: Prints the sum of even-valued
- * Fibonacci sequence do not exceed 4million.
- *
- * Return: Always 0 (Success);
-*/
+ * Return: Always 0.
+ */
+
 int main(void)
 {
 	unsigned long fib1 = 0, fib2 = 1, sum;
